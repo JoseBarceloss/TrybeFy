@@ -1,0 +1,3 @@
+CREATE DATABASE Trybefy;
+
+USE TrybeFy;
