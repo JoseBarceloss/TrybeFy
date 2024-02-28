@@ -4,7 +4,7 @@
   "description": "Boas-vindas ao repositório do projeto Trybefy",
   "main": "index.js",
   "scripts": {
-   "test": "jest --runInBand --verbose --forceExit",
+    "test": "jest --runInBand --verbose --forceExit",
     "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js, .jsx"
   },
   "keywords": [],
