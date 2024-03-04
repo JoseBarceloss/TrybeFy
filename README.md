@@ -39,4 +39,4 @@ O projeto Trybefy foi uma excelente oportunidade para aprimorar minhas habilidad
 
 ---
 
-<img src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" alt="SQL" style="width: 403px; height: auto;"> <img src="https://blog.safetycontrol.ind.br/wp-content/uploads/2021/11/Docker.png" alt="Docker" style="width: 450px; height: auto;">
+<img src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" alt="SQL" style="width: 314px; height: auto;"> <img src="https://blog.safetycontrol.ind.br/wp-content/uploads/2021/11/Docker.png" alt="Docker" style="width: 350px; height: auto;">
