@@ -29,10 +29,6 @@ Ao longo deste projeto, demonstrei as seguintes habilidades:
 
 Para preparar o ambiente de trabalho, utilizei o Docker. O Docker facilitou a configuração do ambiente de desenvolvimento e garantiu que eu pudesse trabalhar em um ambiente consistente.
 
-## Como Acessar o Projeto
-
-Para acessar o código fonte e mais detalhes sobre o projeto, você pode verificar o repositório no GitHub [aqui](URL_DO_SEU_REPOSITORIO).
-
 ## Conclusão
 
 O projeto Trybefy foi uma excelente oportunidade para aprimorar minhas habilidades em SQL e desenvolver um banco de dados completo para um aplicativo de streaming de músicas. Aprendi muito durante este projeto e estou animado para aplicar esses conhecimentos em projetos futuros.
